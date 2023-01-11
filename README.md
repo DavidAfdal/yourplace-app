@@ -1,7 +1,4 @@
 # my first project
-
-# Description
-
 Ini project yang pertama kali saya kembangkan, di project ini saya banyak belajar mengenai pengembangan / pembuataan aplikasi berbasis web. Stack yang saya gunakan di project ini adalah MERN ( Monggo db, Express js, React js, dan Node js).
 
 # Cara menjalankan Project
